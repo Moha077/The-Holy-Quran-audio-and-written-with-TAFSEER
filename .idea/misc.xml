@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/activity_main.xml" value="0.19741100323624594" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/activity_moushaf.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/activity_splash.xml" value="0.18944099378881987" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/activitysignin.xml" value="0.2984375" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/aya_card.xml" value="0.33" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/contact_card.xml" value="0.271875" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/dropdown_item.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_ayat_soura.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_book_mark.xml" value="0.2984375" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_detail_Surah.xml" value="0.20625" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_detail_surah.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_detail_verset.xml" value="0.20625" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_moshaf.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_pop_up__note.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_rv_aya.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_rv_hist_racine.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_rv_racine.xml" value="0.2765625" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_rv_soirah.xml" value="0.2765625" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_rv_sourah.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_saved_rv.xml" value="0.2984375" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/fragment_share.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/hist_racine_card.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/pop_up.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/racine_card.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/row_spinner.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/row_textview.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/saved_aya_card.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/layout/slider_item_container.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/hamza/Documents/ProjetTDM-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
